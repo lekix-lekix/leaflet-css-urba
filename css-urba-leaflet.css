@@ -605,7 +605,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
   position: absolute;
   pointer-events: none;
   border: 6px solid transparent;
-  border-radius: 10px;
+  border-radius: 30px;
   background: transparent;
   content: "";
 }
